@@ -1,16 +1,19 @@
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.5078125,
-          25.799891182088334
+  { "type": "FeatureCollection",
+    "features": [
+      { "type": "Feature",
+        "id": "yet-another-test-student",
+        "geometry": {"type": "Point", "coordinates": [-81, 28]},
+        "properties": {"user": "halfaro1"}
+        },
+        { "type": "Feature",
+        "id": "halfaro1-test-student",
+        "geometry": {"type": "Point", "coordinates": [102.0, 0.5]},
+        "properties": {"user": "halfaro1"}
+        },
+      { "type": "Feature",
+        "id": "another-test-student",
+        "geometry": {"type": "Point", "coordinates": [82.0, 0.5]},
+        "properties": {"user": "test-student"}
+        }
         ]
-      }
-    }
-  ]
-}
+     }
