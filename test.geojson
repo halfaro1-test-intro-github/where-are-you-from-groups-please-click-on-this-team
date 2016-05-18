@@ -1,9 +1,9 @@
   { "type": "FeatureCollection",
     "features": [
       { "type": "Feature",
-        "id": "yet-another-test-student",
-        "geometry": {"type": "Point", "coordinates": [-81, 28]},
-        "properties": {"user": "halfaro1"}
+        "id": "brianamarie",
+        "geometry": {"type": "Point", "coordinates": [-88.0417, 40.1117]},
+        "properties": {"user": "brianamarie"}
         },
         { "type": "Feature",
         "id": "halfaro1-test-student",
